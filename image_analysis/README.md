@@ -1,4 +1,4 @@
-# Analysing posterior neuruloid patterning by countours from boundary
+# Analysing posterior neuruloid patterning by contours from boundary
 Analyse neuruloid TBXT intendities within day 2 to obtain intensity trends.
 
 ### Folders
