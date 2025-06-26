@@ -1,0 +1,4 @@
+    gamma = mc.TruncatedNormal('gamma', mu=10, sigma=15, lower=5, upper=150)
+    S0 = mc.TruncatedNormal('S0', mu=0.5, sigma=0.05, lower=0.0, upper=1.0)
+    T0 = mc.TruncatedNormal('T0', mu=0.006, sigma=0.05, lower=0.0, upper=1.0)
+    S1 = mc.TruncatedNormal('S1', mu=0.05, sigma=0.05, lower=0.0, upper=0.5)

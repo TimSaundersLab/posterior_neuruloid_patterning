@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-image
+notebook
+ipywidgets
+joblib
+tqdm
+numba
+fenics
+mshr

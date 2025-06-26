@@ -1,0 +1,1 @@
+{'gamma_interval__': array(-4.9698133), 'S0_interval__': array(0.98234759), 'T0_interval__': array(-1.58537718), 'S1_interval__': array(-1.02284595), 'gamma': array(6.), 'S0': array(0.72757378), 'T0': array(0.17003529), 'S1': array(0.13223671)}
